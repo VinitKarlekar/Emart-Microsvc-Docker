@@ -192,21 +192,6 @@ cd Emart-Microsvc-Docker
 docker-compose up -d
 ```
 
-#### 4. Access Application
-- **Frontend**: `http://your-ec2-public-ip`
-- **Emart API**: `http://your-ec2-public-ip:3000`
-- **Books API**: `http://your-ec2-public-ip:8080`
-
-## 📸 Screenshots
-
-> **Note**: Add your project screenshots here
-
-- EC2 Instance Configuration
-- Docker Compose Build Process
-- Running Containers
-- Application Interface
-- API Endpoints Testing
-
 ## 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience with:
@@ -241,18 +226,8 @@ Through this project, I gained hands-on experience with:
 ## 🙏 Acknowledgments
 
 - **Original Application**: This project uses the e-commerce application developed by [DevOpsHyd Club](https://github.com/devopshydclub/emartapp)
-- **Special Thanks**: To the open-source community for providing excellent documentation and resources
 - **Learning Resources**: Docker official documentation, AWS documentation, and various DevOps learning platforms
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -261,9 +236,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Vinit Karlekar**
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/vinit-karlekar/
 - GitHub: [@VinitKarlekar](https://github.com/VinitKarlekar)
-- Email: [your.email@example.com]
+- Email: [vinitkarlekar84474@gmail.com]
 
 ---
 
